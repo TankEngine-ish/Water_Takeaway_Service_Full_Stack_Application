@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
 const data = [
   {
     id: 1,
-    title: "the most beloved bottled water",
+    title: "our most advanced bottled water",
     image: "/slide1.jpg",
   },
   {
