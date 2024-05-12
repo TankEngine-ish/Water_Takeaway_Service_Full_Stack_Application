@@ -15,7 +15,7 @@ const data = [
   },
   {
     id: 3,
-    title: "cure your plant's depression",
+    title: "cure your plant's depression with velingrad",
     image: "/slide3.jpg",
   },
 ];
